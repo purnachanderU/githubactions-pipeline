@@ -1,7 +1,7 @@
 # app.py
-# This is a test commit
-def add(a, b):
-    return a + b
+# This is a test commit action
+def add(x, y):
+    return x + y
 
 def test_add():
     assert add(1, 2) == 3
